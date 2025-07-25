@@ -22,12 +22,9 @@ export default function Hero() {
           We migrate, monitor, and manage your cloud infrastructure so you can focus on growth.
         </p>
         <div className="flex justify-center gap-4 mt-6">
-          <a href="https://wa.me/27813494850" target="_blank" rel="noopener noreferrer">
-            <Button className="bg-green-600 hover:bg-green-700 text-white rounded-2xl px-6 py-2">WhatsApp Us</Button>
-          </a>
           <a href="mailto:lindomadavha@gmail.com">
             <Button variant="outline" className="text-white rounded-2xl px-6 py-2 bg-blue-700 hover:bg-blue-400">
-              Email Us
+              Get Quote
             </Button>
           </a>
         </div>

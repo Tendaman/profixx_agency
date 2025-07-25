@@ -4,33 +4,33 @@ import { CardContainer, CardBody, CardItem } from "@/components/ui/3d-card";
 const pricing = [
   {
     title: "AWS Cloud Migration",
-    price: "R7,500 - R15,000",
-    description: "We assess your current infrastructure, plan a detailed migration strategy minimizing downtime...",
+    price: "from R2000",
+    description: "We assess your current infrastructure and plan a detailed migration strategy to ensure minimal downtime and a seamless transition to the cloud.",
   },
   {
     title: "Cloud Monitoring & Alerts",
-    price: "R5,000 /pm",
-    description: "Our team implements real-time monitoring tools tailored to your cloud setup...",
+    price: "from R2,500 /pm",
+    description: "Our team implements real-time monitoring tools tailored to your cloud setup to proactively detect issues and send automated alerts.",
   },
   {
     title: "Backup & Disaster Recovery",
-    price: "R6,000",
-    description: "We design and implement automated backup solutions using AWS services...",
+    price: "from R6,000",
+    description: "We design and implement automated backup solutions using AWS services to ensure data integrity and fast recovery during disasters.",
   },
   {
     title: "Security Audit",
-    price: "R5,000",
-    description: "Our experts conduct comprehensive security assessments including scans and compliance checks...",
+    price: "from R2,800",
+    description: "Our experts conduct comprehensive security assessments, perform vulnerability scans, and ensure compliance with industry standards.",
   },
   {
     title: "Full Cloud Management",
-    price: "R20,000 /pm",
-    description: "We provide end-to-end cloud management including optimization, patching, and 24/7 support...",
+    price: "from R10,000 /pm",
+    description: "We provide end-to-end cloud management, including cost optimization, regular patching, performance tuning, and 24/7 technical support. Other mentioned services are included.",
   },
   {
     title: "Enterprise level Solutions",
     price: "Price on request",
-    description: "Tailored cloud solutions for enterprise needs including architecture design and compliance management...",
+    description: "We deliver tailored cloud solutions for large enterprises, including cloud architecture design, compliance management, and DevOps integration.",
   },
 ];
 

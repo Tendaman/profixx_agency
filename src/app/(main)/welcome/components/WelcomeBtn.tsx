@@ -11,7 +11,7 @@ export default function WelcomeBtn() {
           Get Started
         </Button>
       </Link>
-      <Link href="/contact">
+      <Link href="/contact-us">
         <Button variant="outline" className="rounded-lg px-6 py-2">
           Contact Us
         </Button>

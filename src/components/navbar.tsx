@@ -11,8 +11,8 @@ const navItems = [
   { label: "Welcome", href: "/welcome" },
   { label: "Our Solutions", href: "/solutions" },
   { label: "Why Profixx", href: "/why-profixx" },
-  { label: "FAQ", href: "#faq" },
-  { label: "Contact Us", href: "#contact" },
+  { label: "FAQ", href: "/faq" },
+  { label: "Contact Us", href: "/contact-us" },
 ];
 
 interface NavbarProps {
